@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/NovomaTech/.github/main/profile/assets/novoma-horizontal-band-1200.png" alt="Novoma Tech" width="560">
 </picture>
 
-### Studio de SaaS. On conçoit, on lance, on enchaîne.
+### Modern, simple, reliable SaaS products
 
 ![Studio](https://img.shields.io/badge/studio-SaaS-5B3DF5?style=for-the-badge)
 ![Tech](https://img.shields.io/badge/tech-premium-7457FF?style=for-the-badge)
